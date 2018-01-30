@@ -227,7 +227,7 @@ msgstr "Bevestig verwijderen"
 
 msgctxt "#30116"
 msgid "Delete \"%s\"?"
-msgstr "Delete \"%s\"?"
+msgstr "Verwijder \"%s\"?"
 
 msgctxt "#30117"
 msgid "Remove \"%s\"?"
@@ -262,7 +262,7 @@ msgstr "API Id"
 
 msgctxt "#30203"
 msgid "API Secret"
-msgstr "API Secret"
+msgstr "API Geheim"
 
 msgctxt "#30204"
 msgid "Enable personal API keys"
@@ -289,7 +289,7 @@ msgstr "Ga naar %s"
 
 msgctxt "#30503"
 msgid "Show channel fanart"
-msgstr "Toon kanaal afbeeldingen"
+msgstr "Toon kanaal fanart"
 
 msgctxt "#30504"
 msgid "Subscriptions"
@@ -645,11 +645,11 @@ msgstr "Miniatuur formaat"
 
 msgctxt "#30592"
 msgid "Medium (16:9)"
-msgstr "Medium"
+msgstr "Medium (16:9)"
 
 msgctxt "#30593"
 msgid "High (4:3)"
-msgstr "Hoog"
+msgstr "Hoog (4:3)"
 
 msgctxt "#30594"
 msgid "Safe search"
@@ -685,7 +685,7 @@ msgstr "%s met %s terugval"
 
 msgctxt "#30602"
 msgid "No auto-generated"
-msgstr "Geen automatisch gegenereerde"
+msgstr "Niet automatisch gegenereerd"
 
 msgctxt "#30603"
 msgid "Age gate"
@@ -757,7 +757,7 @@ msgstr "Proxypoort"
 
 msgctxt "#30620"
 msgid "Port %s already in use. Cannot start proxy server."
-msgstr "Port %s al in gebruik. Kan de proxyserver niet starten."
+msgstr "Poort %s al in gebruik. Kan de proxyserver niet starten."
 
 msgctxt "#30621"
 msgid "Proxy is required for mpeg-dash vods"
@@ -765,24 +765,24 @@ msgstr "Proxy is vereist voor mpeg-dash vods."
 
 msgctxt "#30622"
 msgid "Purchases"
-msgstr ""
+msgstr "Aankopen"
 
 msgctxt "#30623"
 msgid "Install InputStream Helper"
-msgstr ""
+msgstr "Installeer InputStream Helper"
 
 msgctxt "#30624"
 msgid "Requires Kodi 17+"
-msgstr ""
+msgstr "Kodi 17 vereist"
 
 msgctxt "#30625"
 msgid "InputStream Helper is already installed."
-msgstr ""
+msgstr "InputStream Helper is al geïnstalleerd"
 
 msgctxt "#30626"
 msgid "Delete temporary files"
-msgstr ""
+msgstr "Verwijder tijdelijke bestanden"
 
 msgctxt "#30627"
 msgid "Rate video after watching"
-msgstr ""
+msgstr "Beoordeel video na bekijken"
