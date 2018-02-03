@@ -753,11 +753,11 @@ msgstr "Gebruik MPEG Dash proxy"
 
 msgctxt "#30619"
 msgid "Port"
-msgstr "Port"
+msgstr "Poort"
 
 msgctxt "#30620"
 msgid "Port %s already in use. Cannot start http server."
-msgstr "Port %s al in gebruik. Kan de http server niet starten."
+msgstr "Poort %s al in gebruik. Kan de http server niet starten."
 
 msgctxt "#30621"
 msgid "Proxy is required for mpeg-dash vods"
@@ -765,27 +765,27 @@ msgstr "Proxy is vereist voor mpeg-dash vods."
 
 msgctxt "#30622"
 msgid "Purchases"
-msgstr ""
+msgstr "Aankopen"
 
 msgctxt "#30623"
 msgid "Install InputStream Helper"
-msgstr ""
+msgstr "Installeer Inputstream Helper"
 
 msgctxt "#30624"
 msgid "Requires Kodi 17+"
-msgstr ""
+msgstr "Kodi 17 vereist"
 
 msgctxt "#30625"
 msgid "InputStream Helper is already installed."
-msgstr ""
+msgstr "InputStream Helper is al geïnstalleerd"
 
 msgctxt "#30626"
 msgid "Delete temporary files"
-msgstr ""
+msgstr "Verwijder tijdelijke bestanden"
 
 msgctxt "#30627"
 msgid "Rate video after watching"
-msgstr ""
+msgstr "Beoordeel video na bekijken"
 
 msgctxt "#30628"
 msgid "HTTP Server"
@@ -797,7 +797,7 @@ msgstr ""
 
 msgctxt "#30630"
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 msgctxt "#30631"
 msgid "Successfully updated: %s"
